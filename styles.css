@@ -1,0 +1,82 @@
+body{
+    margin: auto;
+    background-color: #D1D5DB;
+}
+h1{
+    color: #120461;
+    text-align: center;
+}
+#main-div{
+    text-align: center;
+    display: grid;
+    width: 50%;
+    margin: 1rem 15rem 5rem 10rem;
+    padding: 1rem 10rem 3rem 10rem;
+}
+span{
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+input{
+    padding: 0.8rem;
+    font-size: 1.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    border: none;
+}
+input:focus{
+    outline: none;
+    box-shadow: none;
+}
+#stock-img{
+    width: 120%;
+    height: 150%;
+    margin-left: -9rem;
+    margin-top: -12rem;
+}
+#check-btn{
+    margin: 2rem 0rem 1rem 12rem ;
+    width: 30%;
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #120461;
+    color: snow;
+    border-radius: 2rem;
+}
+#footer-list{
+    background-color: #4B5563;
+}
+#git-img{
+    font-size: 2rem;
+    margin: auto 30rem;
+}
+#twitter-img{
+    font-size: 2rem;
+    margin: auto 30rem;
+}
+#linkedin-img{
+    font-size: 2rem;
+    margin: auto -26rem;
+}
+#gitImg{
+    width: 3%;
+}
+table{
+    margin-bottom: -5rem;
+}
+p{
+    margin: auto 32rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: 600;
+}
+#output{
+    border: 1px solid;
+    height: 70%;
+    margin: 1rem 2rem 2rem 2rem;
+    padding: 1rem 0rem 0rem 0rem;
+    display: none;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+}
